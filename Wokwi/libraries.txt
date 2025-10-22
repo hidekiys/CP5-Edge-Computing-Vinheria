@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT22
+MQTTPubSubClient
+PubSubClient
+WiFi
+dhtESP32-rmt
+DHT sensor library for ESPx
+DHT sensor library
